@@ -7,7 +7,7 @@ Final Project Group 48
 
 Logan Keebler - lek167@pitt.edu
 
-Dean Assicurato - 
+Dean Assicurato - dja77@pitt.edu
 
 Metric 1: Courts and Rinks in Pittsburgh, https://data.wprdc.org/dataset/city-of-pittsburgh-courts
 
